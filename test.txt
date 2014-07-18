@@ -1,4 +1,4 @@
 Grceating a new branch is quick
 Switch to branch 'master'
 Creating a new branch is quick & Simple
-
+Switched to a new branch 'feature1'
