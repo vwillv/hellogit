@@ -3,4 +3,6 @@ Switch to branch 'master'
 Creating a new branch is quick & Simple
 Switched to a new branch 'feature1'
 fixed bug
-fixxxxx
+fixxxxxasdasjdashkdjhaskjdhaskd
+asdasdas
+dasdas
